@@ -1,0 +1,4 @@
+interface:
+  display_name: "海关贸易数据报告"
+  short_description: "分析中国进出口海关表格并生成多维 Markdown 图表报告"
+  default_prompt: "使用 $customs-trade-report 分析这份海关数据表格，并生成 Markdown 报告。"
