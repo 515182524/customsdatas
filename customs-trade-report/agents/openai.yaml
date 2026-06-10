@@ -1,0 +1,4 @@
+interface:
+  display_name: "海关贸易查询与分析"
+  short_description: "确认八位HS编码，下载海关源表并生成多维分析报告"
+  default_prompt: "使用 $customs-trade-report 根据产品描述查询海关数据，并返回源表和 Markdown 分析报告。"
