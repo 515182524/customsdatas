@@ -1,0 +1,4 @@
+interface:
+  display_name: "国内外社交媒体热点"
+  short_description: "Unified CN and overseas social trend research"
+  default_prompt: "Use $social-media-hotspots to research a keyword across Chinese and overseas social platforms, then save a Markdown report with top content, links, metrics, and caveats."
